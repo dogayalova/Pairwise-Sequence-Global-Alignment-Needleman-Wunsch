@@ -1,7 +1,7 @@
 # Needleman-Wunsch Global Sequence Alignment Implementation
 
 ## Project Overview
-This project focuses on the implementation of the Needleman-Wunsch global sequence alignment algorithm, a foundational algorithm in bioinformatics for aligning protein or nucleotide sequences. The implementation is designed to handle both linear and affine gap penalties.
+This project focuses on the implementation of the Needleman-Wunsch global sequence alignment algorithm, a foundational algorithm in bioinformatics for aligning protein or nucleotide sequences. The implementation is designed to handle both linear and affine gap penalties. Assignment for Bioinformatics Course (CMPE 549) at Bogazici University.
 
 ### Key Features
 - **Linear and Affine Gap Penalty:** The algorithm supports both linear and affine gap penalty models.
